@@ -3,7 +3,7 @@ const gallery = document.getElementById("gallery");
 const template = document.getElementById("photoTemplate");
 
 const R2_BASE = "https://pub-ba3a8128d5a64fb7a47d63f778173438.r2.dev/";
-const MAX_IMAGES = 196;
+const MAX_IMAGES = 192;
 
 const SHEET_URL = "https://script.google.com/macros/s/AKfycbzUrMa2UL3tlNFIm8pCTo1MPSYxq7giY7RwFaxriOUOwMbR4yOqorIEHOh1TwZWzOdI/exec";
 
